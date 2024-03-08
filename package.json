@@ -1,0 +1,9 @@
+{
+  "name": "@dieuboutiquevn/dieutea",
+  "version": "1.0.0",
+  "description": "Quest for tea.xyz",
+  "main": "index.js",
+  "author": "@dieuboutiquevn",
+  "repository": "https://github.com/dieuboutiquevn/dieutea.git",
+  "license": "ISC"
+}
